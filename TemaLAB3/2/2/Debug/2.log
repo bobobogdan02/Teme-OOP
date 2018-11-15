@@ -1,0 +1,4 @@
+﻿  2.cpp
+d:\facultate\oop\temalab3\2\2\2.cpp(20): error C2248: 'Student::Student': cannot access private member declared in class 'Student'
+  d:\facultate\oop\temalab3\2\2\2.cpp(11): note: see declaration of 'Student::Student'
+  d:\facultate\oop\temalab3\2\2\2.cpp(8): note: see declaration of 'Student'

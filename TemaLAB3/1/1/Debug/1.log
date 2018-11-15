@@ -1,0 +1,13 @@
+﻿  1.cpp
+d:\facultate\oop\temalab3\1\1\1.cpp(30): error C2248: 'Student::Student': cannot access private member declared in class 'Student'
+  d:\facultate\oop\temalab3\1\1\1.cpp(13): note: see declaration of 'Student::Student'
+  d:\facultate\oop\temalab3\1\1\1.cpp(9): note: see declaration of 'Student'
+d:\facultate\oop\temalab3\1\1\1.cpp(32): error C2248: 'Student::Student': cannot access private member declared in class 'Student'
+  d:\facultate\oop\temalab3\1\1\1.cpp(13): note: see declaration of 'Student::Student'
+  d:\facultate\oop\temalab3\1\1\1.cpp(9): note: see declaration of 'Student'
+d:\facultate\oop\temalab3\1\1\1.cpp(36): error C2248: 'Student::grade': cannot access private member declared in class 'Student'
+  d:\facultate\oop\temalab3\1\1\1.cpp(11): note: see declaration of 'Student::grade'
+  d:\facultate\oop\temalab3\1\1\1.cpp(9): note: see declaration of 'Student'
+d:\facultate\oop\temalab3\1\1\1.cpp(38): error C2248: 'Student::grade': cannot access private member declared in class 'Student'
+  d:\facultate\oop\temalab3\1\1\1.cpp(11): note: see declaration of 'Student::grade'
+  d:\facultate\oop\temalab3\1\1\1.cpp(9): note: see declaration of 'Student'
