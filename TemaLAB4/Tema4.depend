@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542909574 source:d:\tolgoi\teme-oop-master\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<string>
+	<list>
+
+1544454720 source:d:\facultate\oop\temalab4\main.cpp
+	<iostream>
+	<string>
+	<list>
+
