@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541088303 source:d:\facultate\oop\tema1\main.cpp
+	<iostream>
+
+1544122022 source:d:\facultate\oop\temalab2\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<time.h>
+
